@@ -1,7 +1,6 @@
 # sparrow_eclock_renesas_lceda
 This is the repo for software functions of the 「sparrow」eclock demo, enjoy it!
 ## version introduction
---------------------------
 ### V3-Template
 - 定时器扫描按键实现键值检测
 - 长按按键，短按按键，K1实现时钟界面切换
