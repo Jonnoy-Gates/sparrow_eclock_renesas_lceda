@@ -22,7 +22,7 @@ PWM驱动蜂鸣器并实现节拍器和音乐播放功能
 
 ## 1、硬件部分
 - 硬件项目详细介绍地址：https://oshwhub.com/joe_e/eclock/
-- 主要参考立创2023暑期夏令营官方介绍[【立创电赛】基于瑞萨的桌面电子时钟设计 - 嘉立创EDA开源硬件平台 (oshwhub.com)]
+- 主要参考立创2023暑期夏令营官方介绍[【立创电赛】基于瑞萨的桌面电子时钟设计 - 嘉立创EDA开源硬件平台 (oshwhub.com)](https://oshwhub.com/course-examples/li-chuang-dian-sai-ji-yu-rui-sa-de-zhuo-mian-dian-zi-shi-zhong-she-ji)
 
 ## 2、软件部分
 
